@@ -74,7 +74,7 @@ button.cancel {
   display: flex;
   flex-direction: row;
   gap: 16px;
-  padding: 8px;
+  padding: 16px;
 }
 
 .icon {
@@ -84,7 +84,7 @@ button.cancel {
 .content {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 16px;
 }
 
 .header-container {
